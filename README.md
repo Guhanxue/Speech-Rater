@@ -1,6 +1,8 @@
 # Speech-Rater
 
-## an ML &amp; deep learning algorithms/models to assess spoken English language proficiency 
+## An ML &amp; deep learning algorithms/models to assess spoken English language proficiency 
+
+### This is the results from two years of study whose overal achivement is an average assessment accuracy level of 72% for non-native adult speakers.  The correlation between the human scores and the machine scores for an overall measure of speaking was 0.86 thus proving the reliability of the measure of speaking in tests.
 
 <UL> 
 <LI style="color:orange; font-size:130%;"> it transforms sounds/language into vectores in a n-dimension sphere in which each feature is vectorized to represent pronunciation, prosody, and language for further evaluation.
